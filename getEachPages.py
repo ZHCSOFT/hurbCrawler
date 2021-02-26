@@ -75,7 +75,6 @@ def getByURL(url):
 
         medicine_info.update({title: text})
 
-    # print(medicine_info)
     return medicine_info
 
 
