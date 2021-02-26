@@ -1,6 +1,10 @@
 HurbCrawler
 ====
 
+Libraries
+-------
+BeautifulSoup(bs4)
+
 Disclaimer
 -------
 You are free to use this project for your school project, while its stability is not being promised since my limited developing experience.
