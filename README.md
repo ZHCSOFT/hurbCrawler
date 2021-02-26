@@ -7,7 +7,7 @@ BeautifulSoup(bs4)
 
 Disclaimer
 -------
-You are free to use this project for your school project, while its stability is not being promised since my limited developing experience.
+You are free to use this project for your school project, while its stability is not being guaranteed since my limited developing experience.
 
 Usage
 -------
