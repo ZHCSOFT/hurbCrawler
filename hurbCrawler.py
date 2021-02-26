@@ -30,7 +30,7 @@ for page in range (1, 46):
             dbEntry.append(getEachPages.getByURL(url))
 
     except AttributeError as e:
-        # print('Error!', e)
+        print('Error!', e)
         continue
 
     for Entry in dbEntry:
