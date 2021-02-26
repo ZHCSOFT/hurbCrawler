@@ -20,6 +20,6 @@ Name,Medicine_Name,Alias,English_Name,Medicinal_Part,Source,Morphology,Distribut
 
 Chinese Version
 -------
-中藥資料集爬取工具
+中藥資料集爬取工具/中藥爬蟲/中药数据库爬虫
 可從目標網站上爬取中藥資料
 資料庫包括 中英文名稱，別稱，藥用部位，藥材來源，描述，加工製程，特點，特性，效果，用法用量，禁忌等
