@@ -3,7 +3,7 @@ HurbCrawler
 
 Libraries
 -------
-BeautifulSoup(bs4)
+BeautifulSoup(bs4) urllib lxml requests
 
 Disclaimer
 -------
